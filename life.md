@@ -1,4 +1,4 @@
-@laktek' life
+@laktek's life
 ===============
 
 - 14/07/1986 Born
