@@ -20,5 +20,5 @@
 - 05/2011 [Worked in Vienna with AlohaEditor team](http://www.laktek.com/2011/06/08/a-month-in-vienna/)
 - 19/04/2012 [Released Punch](http://www.laktek.com/2012/04/19/punch-a-fun-and-easy-way-to-build-modern-websites)
 - 11/2012 [Presented at JSCamp.Asia](http://www.laktek.com/2012/12/04/jscamp-asia/)
-- 2013 [Joined Nitrous.IO](http://www.laktek.com/2013/04/12/my-first-three-months-with-actionio)
-- 2013 Moved to Singapore (re-learns everything)
+- 2013-~ [Joined Nitrous.IO](http://www.laktek.com/2013/04/12/my-first-three-months-with-actionio)
+- 2013-~ Moved to Singapore (re-learns everything)
