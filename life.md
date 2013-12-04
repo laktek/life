@@ -3,7 +3,7 @@
 
 - 14/07/1986 Born
 - 1992-2005 Primary/Secondary Education - St.Benedict's College
-- 17/03/1996 [Sri Lanka wins the World Cup](http://www.laktek.com/2012/10/07/how-i-remember-1996-world-cup)
+- 17/03/1996 [Sri Lanka won the World Cup](http://www.laktek.com/2012/10/07/how-i-remember-1996-world-cup)
 - 1998 Got the first computer (Pentium II, 64MB RAM, Windows 98)
 - 1999 [Created the first web site](http://laktek.itgo.com/portfolio.htm)
 - 2000 Won a web designing competition (appears in National TV - still get bullied in school)
